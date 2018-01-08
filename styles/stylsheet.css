@@ -1,19 +1,26 @@
+html {
+	background-color: #4040a1;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10px;
+}
+
 p {
-  color: #4040a1;
+  color: #f0f0f0
   font-size: 20px;
   width: 600px;
   line-height: 2;
   letter-spacing: 1px;
   padding: 50px 10px 5px 0px;
 }
+
 h1 {
-	color: #618685;
+	color: #FFFFFF;
 	font-size: 60px;
 	text-align: center;
 }
 ul, li {
 	font-size: 15px;
-	color: #36486b;
+	color: #FFFFFF;
 	font: helvetica;
 	line-height: 2;
   	letter-spacing: 1px;
