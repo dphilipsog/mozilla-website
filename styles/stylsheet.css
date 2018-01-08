@@ -2,14 +2,26 @@ p {
   color: #4040a1;
   font-size: 40px
   width: 900px;
+  line-height: 2;
+  letter-spacing: 1px;
+  padding: 50px 10px 5px 0px;
 }
 h1 {
 	color: #618685;
 	font-size: 60px;
 	text-align: center;
 }
-ul {
-	font-size: 20px;
+ul, li {
+	font-size: 15px;
 	color: #36486b;
 	font: helvetica;
+	line-height: 2;
+  	letter-spacing: 1px;
 }
+
+.quote {
+	color: green;
+	font-size: 30px;
+}
+
+
